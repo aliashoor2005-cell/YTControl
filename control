@@ -1,0 +1,9 @@
+Package: com.nito.ytcontrol
+Name: YTControl
+Architecture: iphoneos-arm
+Description: Add MFi controller support to YouTube for iOS
+Maintainer: you
+Author: you
+Section: Tweaks
+Depends: mobilesubstrate
+Version: 1.0-1
